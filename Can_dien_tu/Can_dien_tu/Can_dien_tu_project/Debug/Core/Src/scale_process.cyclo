@@ -1,0 +1,9 @@
+../Core/Src/scale_process.c:20:6:Scale_Init	1
+../Core/Src/scale_process.c:33:6:Scale_Close	1
+../Core/Src/scale_process.c:38:6:LCD_Backlight_Off	1
+../Core/Src/scale_process.c:43:6:LCD_Backlight_On	1
+../Core/Src/scale_process.c:49:6:tareScale	1
+../Core/Src/scale_process.c:66:7:weightScale	1
+../Core/Src/scale_process.c:85:6:displayWeighResult	1
+../Core/Src/scale_process.c:101:6:startScaleProcess	2
+../Core/Src/scale_process.c:110:7:getWeight	1

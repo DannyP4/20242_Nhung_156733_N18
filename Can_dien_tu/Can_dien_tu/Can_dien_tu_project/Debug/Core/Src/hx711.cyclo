@@ -1,0 +1,7 @@
+../Core/Src/hx711.c:5:6:HX711_Init	1
+../Core/Src/hx711.c:11:9:HX711_Is_Ready	1
+../Core/Src/hx711.c:15:9:HX711_Read	5
+../Core/Src/hx711.c:36:7:HX711_Read_Average	2
+../Core/Src/hx711.c:44:6:HX711_Tare	1
+../Core/Src/hx711.c:48:6:HX711_Set_Scale	2
+../Core/Src/hx711.c:52:7:HX711_Get_Weight	1

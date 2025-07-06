@@ -1,0 +1,2 @@
+../Core/Src/sleep_process.c:9:6:wakeup_Init	4	static
+../Core/Src/sleep_process.c:30:6:enterSleep	16	static

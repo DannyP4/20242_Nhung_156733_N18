@@ -1,0 +1,3 @@
+../Core/Src/uart_interface.c:6:6:showMainMenu	16	static
+../Core/Src/uart_interface.c:16:6:showScaleOptions	16	static
+../Core/Src/uart_interface.c:26:6:showLogOptions	16	static
